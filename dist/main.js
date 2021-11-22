@@ -4,4 +4,7 @@ var phone;
 var hex = 0x0fff;
 var binary = 38;
 phone = 23;
-console.log("Your phone is: " + phone);
+var isPro;
+var username;
+username = 'Andres';
+isPro = true;
